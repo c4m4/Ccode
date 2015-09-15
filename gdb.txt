@@ -1,0 +1,25 @@
+Starting program: /home/c0m0/programmin/C/arryptr 
+[Inferior 1 (process 6805) exited with code 014]
+Missing separate debuginfos, use: debuginfo-install glibc-2.17-55.el7.x86_64
+The program has no registers now.
+quit
+Already logging to gdb.txt.
+Already logging to gdb.txt.
+Already logging to gdb.txt.
+No stack.
+No symbol table is loaded.  Use the "file" command.
+Breakpoint 1 at 0x400584
+The program is not being run.
+The program is not being run.
+Starting program: /home/c0m0/programmin/C/arryptr 
+
+Breakpoint 1, 0x0000000000400584 in main ()
+Missing separate debuginfos, use: debuginfo-install glibc-2.17-55.el7.x86_64
+No symbol table is loaded.  Use the "file" command.
+Single stepping until exit from function main,
+which has no line number information.
+0x00007ffff7a3caf5 in __libc_start_main () from /lib64/libc.so.6
+Single stepping until exit from function __libc_start_main,
+which has no line number information.
+[Inferior 1 (process 6855) exited with code 014]
+quit
